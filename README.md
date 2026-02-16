@@ -1,9 +1,5 @@
-- 👋 Hi, I’m César Daniel Aguilar Kuri
-- 👀 I’m interested in ... VideoGame Develeopment
-- 🌱 I’m currently learning ... Python Basics
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... cesardak2006@gmail.com
-- ⚡ Fun fact: ... I love Metal Music
+Hola, soy César Daniel Aguilar Kuri, apasionado por el Metalcore, Electronicore y Trancecore, estudiante de Ing. Tecnologías Computacionales del Tec de Monterrey.
+Me estoy preparando para ser desarrollador web (frontend) y poder ayudar en ciertos aspectos con el backend que incluyan movimientos y requisitos de la base de datos.
 
 <!---
 JakeLegacyDECLA/JakeLegacyDECLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
